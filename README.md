@@ -128,3 +128,5 @@ backend web_servers    # секция бэкенд
 
 Демонстрация переключения серверов на 7 уровне модели OSI.
 ![](https://github.com/eskin-igor/netology_10-2/blob/main/10-2/10-2-2-2.PNG)
+
+Конфигурационный файл [haproxy.cfg.](https://github.com/eskin-igor/netology_10-2/blob/main/10-2/haproxy_10-2-2.cfg)
